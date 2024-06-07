@@ -58,7 +58,7 @@ Nosso intuito é tirar insights que possam melhorar as vendas da loja, por meio 
 - Os principais produtos da loja são vinhos, tanto em nível de receita quanto em quantidade vendida. 
 - A maioria dos clientes possuem uma graduação ou pós.
   
-Mais detalhes podem ser encontrados no Jupyter Notebook associado.
+Mais detalhes podem ser encontrados no arquivo python associado.
 
 ## Conclusão
 
