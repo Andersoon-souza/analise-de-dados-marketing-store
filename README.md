@@ -64,19 +64,4 @@ Mais detalhes podem ser encontrados no Jupyter Notebook associado.
 
 A análise proporcionou insights valiosos sobre o comportamento dos clientes da loja. Duas campanhas tiveram resultados excelentes em termo de receita, embora não tenham desempenhado tão bem nas vendas efetuadas diretamente no site. Os vinhos tiveram destaque em todas as campanhas, muito em razão de não ter um bem-substituto no catalogo de produtos da loja, que é o acontece com os produtos de carne e peixe por exemplo. A uma oportunidade de melhora no canal digital a ser explorada pela empresa quanto as estratégias utilizadas nas duas principais campanhas, se alinhadas com a que teve o maior retorno neste requisito pode render um acrescimo de receita no futuro.
 
-## Como Executar o Projeto
 
-1. Clone o repositório:
-```
-git clone https://github.com/danielesantiago/AirbnbLatAmAnalysis.git
-```
-
-2. Instale as dependências necessárias (recomenda-se utilizar um ambiente virtual):
-
-3. Execute os Jupyter Notebooks para visualizar as análises e resultados.
-
----
-
-📌 Desenvolvido no contexto da divisão América Latina do Airbnb.
-
----
